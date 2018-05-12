@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25772
     wikipedia: http://en.wikipedia.org/wiki/Frank_H._Spearman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29656#The-Mountain-Divide
 gutenberg_issued: '2009-08-10'
 gutenberg_type: Text
 identifiers:
